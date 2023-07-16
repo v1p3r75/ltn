@@ -1,0 +1,6 @@
+/* CSS Document */
+#ltn_cnt .ltn-cnt-col.col2 { background: #FFF; box-shadow: 0px 0px 2px rgba(0,0,0,.32); }
+#ltn_cnt .ltn-cnt-col.col2 > h1 { background: var(--darkred); border-top: var(--goldenrod) solid 6px; padding: 12px 16px; margin-top: 0px; color: var(--goldenrod); font-size: 18px; }
+#ltn_cnt .ltn-pg-cnt { padding: 2.8%; line-height: 2; font-size: 16px; border: #f6fbff solid 1px; }
+#ltn_cnt .ltn-pg-cnt .ltn-pg-ft-img img { padding: 4px; border: #d9e2e8 solid 1px; width: 100%; height: 100%; }
+#ltn_cnt .ltn-pg-cnt .ltn-pg-ft-img cite { margin-top: -8px; }
